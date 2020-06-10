@@ -1,0 +1,7 @@
+name: checkout-locust
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python = 3.7.*
+  - locust = 1.0.2
